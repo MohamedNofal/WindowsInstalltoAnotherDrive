@@ -1,4 +1,4 @@
-# Windows NVMe Installation Script
+# Windows install to another drive
 
 This script automates the process of installing Windows from an ISO file directly to an NVMe drive without the need for a USB drive. It's designed for advanced users and system administrators who need to deploy Windows quickly and efficiently on systems with NVMe storage.
 
